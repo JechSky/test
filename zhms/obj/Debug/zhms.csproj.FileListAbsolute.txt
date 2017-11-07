@@ -1,0 +1,12 @@
+F:\c#练习\Consoletest\zhms\bin\Debug\zhms.exe.config
+F:\c#练习\Consoletest\zhms\bin\Debug\zhms.exe
+F:\c#练习\Consoletest\zhms\bin\Debug\zhms.pdb
+F:\c#练习\Consoletest\zhms\obj\Debug\zhms.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\zhms\obj\Debug\zhms.exe
+F:\c#练习\Consoletest\zhms\obj\Debug\zhms.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\bin\Debug\zhms.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\bin\Debug\zhms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\bin\Debug\zhms.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\obj\Debug\zhms.csprojResolveAssemblyReference.cache
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\obj\Debug\zhms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\zhms\obj\Debug\zhms.pdb

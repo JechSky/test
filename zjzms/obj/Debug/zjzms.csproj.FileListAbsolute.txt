@@ -1,0 +1,6 @@
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\bin\Debug\zjzms.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\bin\Debug\zjzms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\bin\Debug\zjzms.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\obj\Debug\zjzms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\obj\Debug\zjzms.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\zjzms\obj\Debug\zjzms.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\jechsky\Desktop\DesignPattern1\dlms\bin\Debug\dlms.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\dlms\bin\Debug\dlms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\dlms\bin\Debug\dlms.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\dlms\obj\Debug\dlms.exe
+C:\Users\jechsky\Desktop\DesignPattern1\dlms\obj\Debug\dlms.pdb

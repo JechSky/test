@@ -1,0 +1,5 @@
+F:\c#练习\Consoletest\mlms2\bin\Debug\mlms2.exe.config
+F:\c#练习\Consoletest\mlms2\bin\Debug\mlms2.exe
+F:\c#练习\Consoletest\mlms2\bin\Debug\mlms2.pdb
+F:\c#练习\Consoletest\mlms2\obj\Debug\mlms2.exe
+F:\c#练习\Consoletest\mlms2\obj\Debug\mlms2.pdb

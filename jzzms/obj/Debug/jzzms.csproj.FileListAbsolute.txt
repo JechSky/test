@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\jzzms\bin\Debug\jzzms.exe.config
+F:\c#练习\Consoletest\jzzms\bin\Debug\jzzms.exe
+F:\c#练习\Consoletest\jzzms\bin\Debug\jzzms.pdb
+F:\c#练习\Consoletest\jzzms\obj\Debug\jzzms.exe
+F:\c#练习\Consoletest\jzzms\obj\Debug\jzzms.pdb
+F:\c#练习\Consoletest\jzzms\obj\Debug\jzzms.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\mlms\bin\Debug\mlms.exe.config
+F:\c#练习\Consoletest\mlms\bin\Debug\mlms.exe
+F:\c#练习\Consoletest\mlms\bin\Debug\mlms.pdb
+F:\c#练习\Consoletest\mlms\obj\Debug\mlms.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\mlms\obj\Debug\mlms.exe
+F:\c#练习\Consoletest\mlms\obj\Debug\mlms.pdb

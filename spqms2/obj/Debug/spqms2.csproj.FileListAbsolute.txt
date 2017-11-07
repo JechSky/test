@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\spqms2\bin\Debug\spqms2.exe.config
+F:\c#练习\Consoletest\spqms2\bin\Debug\spqms2.exe
+F:\c#练习\Consoletest\spqms2\bin\Debug\spqms2.pdb
+F:\c#练习\Consoletest\spqms2\obj\Debug\spqms2.exe
+F:\c#练习\Consoletest\spqms2\obj\Debug\spqms2.pdb
+F:\c#练习\Consoletest\spqms2\obj\Debug\spqms2.csprojResolveAssemblyReference.cache

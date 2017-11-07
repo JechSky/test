@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\gczms0\bin\Debug\gczms0.exe.config
+F:\c#练习\Consoletest\gczms0\bin\Debug\gczms0.exe
+F:\c#练习\Consoletest\gczms0\bin\Debug\gczms0.pdb
+F:\c#练习\Consoletest\gczms0\obj\Debug\gczms0.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\gczms0\obj\Debug\gczms0.exe
+F:\c#练习\Consoletest\gczms0\obj\Debug\gczms0.pdb

@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\fwzms1\bin\Debug\fwzms1.exe.config
+F:\c#练习\Consoletest\fwzms1\bin\Debug\fwzms1.exe
+F:\c#练习\Consoletest\fwzms1\bin\Debug\fwzms1.pdb
+F:\c#练习\Consoletest\fwzms1\obj\Debug\fwzms1.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\fwzms1\obj\Debug\fwzms1.exe
+F:\c#练习\Consoletest\fwzms1\obj\Debug\fwzms1.pdb

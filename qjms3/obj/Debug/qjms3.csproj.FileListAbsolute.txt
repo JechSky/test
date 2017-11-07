@@ -1,0 +1,6 @@
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\bin\Debug\qjms3.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\bin\Debug\qjms3.exe
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\bin\Debug\qjms3.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\obj\Debug\qjms3.exe
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\obj\Debug\qjms3.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\qjms3\obj\Debug\qjms3.csprojResolveAssemblyReference.cache

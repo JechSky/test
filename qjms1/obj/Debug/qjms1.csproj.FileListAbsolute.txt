@@ -1,0 +1,12 @@
+F:\c#练习\Consoletest\qjms1\bin\Debug\qjms1.exe.config
+F:\c#练习\Consoletest\qjms1\bin\Debug\qjms1.exe
+F:\c#练习\Consoletest\qjms1\bin\Debug\qjms1.pdb
+F:\c#练习\Consoletest\qjms1\obj\Debug\qjms1.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\qjms1\obj\Debug\qjms1.exe
+F:\c#练习\Consoletest\qjms1\obj\Debug\qjms1.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\bin\Debug\qjms1.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\bin\Debug\qjms1.exe
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\bin\Debug\qjms1.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\obj\Debug\qjms1.csprojResolveAssemblyReference.cache
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\obj\Debug\qjms1.exe
+C:\Users\jechsky\Desktop\DesignPattern1\qjms1\obj\Debug\qjms1.pdb

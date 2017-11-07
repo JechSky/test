@@ -1,0 +1,5 @@
+F:\c#练习\Consoletest\xyms\bin\Debug\xyms.exe.config
+F:\c#练习\Consoletest\xyms\bin\Debug\xyms.exe
+F:\c#练习\Consoletest\xyms\bin\Debug\xyms.pdb
+F:\c#练习\Consoletest\xyms\obj\Debug\xyms.exe
+F:\c#练习\Consoletest\xyms\obj\Debug\xyms.pdb

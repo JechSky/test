@@ -1,0 +1,12 @@
+F:\c#练习\Consoletest\Itera\bin\Debug\Itera.exe.config
+F:\c#练习\Consoletest\Itera\bin\Debug\Itera.exe
+F:\c#练习\Consoletest\Itera\bin\Debug\Itera.pdb
+F:\c#练习\Consoletest\Itera\obj\Debug\Itera.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\Itera\obj\Debug\Itera.exe
+F:\c#练习\Consoletest\Itera\obj\Debug\Itera.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\bin\Debug\Itera.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\bin\Debug\Itera.exe
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\bin\Debug\Itera.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\obj\Debug\Itera.csprojResolveAssemblyReference.cache
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\obj\Debug\Itera.exe
+C:\Users\jechsky\Desktop\DesignPattern1\Itera\obj\Debug\Itera.pdb

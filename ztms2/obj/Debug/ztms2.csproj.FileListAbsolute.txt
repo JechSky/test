@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\ztms2\bin\Debug\ztms2.exe.config
+F:\c#练习\Consoletest\ztms2\bin\Debug\ztms2.exe
+F:\c#练习\Consoletest\ztms2\bin\Debug\ztms2.pdb
+F:\c#练习\Consoletest\ztms2\obj\Debug\ztms2.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\ztms2\obj\Debug\ztms2.exe
+F:\c#练习\Consoletest\ztms2\obj\Debug\ztms2.pdb

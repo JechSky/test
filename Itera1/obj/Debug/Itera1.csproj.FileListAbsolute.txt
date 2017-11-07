@@ -1,0 +1,6 @@
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\bin\Debug\Itera1.exe.config
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\bin\Debug\Itera1.exe
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\bin\Debug\Itera1.pdb
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\obj\Debug\Itera1.csprojResolveAssemblyReference.cache
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\obj\Debug\Itera1.exe
+C:\Users\jechsky\Desktop\DesignPattern1\Itera1\obj\Debug\Itera1.pdb

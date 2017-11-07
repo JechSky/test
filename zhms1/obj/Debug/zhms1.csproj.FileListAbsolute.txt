@@ -1,0 +1,6 @@
+F:\c#练习\Consoletest\zhms1\bin\Debug\zhms1.exe.config
+F:\c#练习\Consoletest\zhms1\bin\Debug\zhms1.exe
+F:\c#练习\Consoletest\zhms1\bin\Debug\zhms1.pdb
+F:\c#练习\Consoletest\zhms1\obj\Debug\zhms1.csprojResolveAssemblyReference.cache
+F:\c#练习\Consoletest\zhms1\obj\Debug\zhms1.exe
+F:\c#练习\Consoletest\zhms1\obj\Debug\zhms1.pdb
